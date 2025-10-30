@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inter Variable Font
 ===================
 
@@ -22,6 +23,37 @@ in those cases you can use the static font files for Inter:
   static/Inter-Bold.ttf
   static/Inter-ExtraBold.ttf
   static/Inter-Black.ttf
+=======
+Figtree Variable Font
+=====================
+
+This download contains Figtree as both variable fonts and static fonts.
+
+Figtree is a variable font with this axis:
+  wght
+
+This means all the styles are contained in these files:
+  Figtree-VariableFont_wght.ttf
+  Figtree-Italic-VariableFont_wght.ttf
+
+If your app fully supports variable fonts, you can now pick intermediate styles
+that aren’t available as static fonts. Not all apps support variable fonts, and
+in those cases you can use the static font files for Figtree:
+  static/Figtree-Light.ttf
+  static/Figtree-Regular.ttf
+  static/Figtree-Medium.ttf
+  static/Figtree-SemiBold.ttf
+  static/Figtree-Bold.ttf
+  static/Figtree-ExtraBold.ttf
+  static/Figtree-Black.ttf
+  static/Figtree-LightItalic.ttf
+  static/Figtree-Italic.ttf
+  static/Figtree-MediumItalic.ttf
+  static/Figtree-SemiBoldItalic.ttf
+  static/Figtree-BoldItalic.ttf
+  static/Figtree-ExtraBoldItalic.ttf
+  static/Figtree-BlackItalic.ttf
+>>>>>>> origin/main
 
 Get started
 -----------
